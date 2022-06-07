@@ -4,6 +4,129 @@ mainset:
 - names:
   - name: Eagle
     probability: 1
-name: G
+  - name: Elk
+    probability: 1
+  - name: Maple
+    probability: 1
+  - name: Pine
+    probability: 1
+  - name: Deer
+    probability: 1
+  - name: Bear
+    probability: 1
+  - name: Wolf
+    probability: 1
+  - name: Palm
+    probability: 1
+  - name: Coast
+    probability: 1
+  - name: Crow
+    probability: 1
+  - name: Whale
+    probability: 1
+  - name: Coyote
+    probability: 1
+  - name: Cougar
+    probability: 1
+  - name: Walnut
+    probability: 1
+  - name: Arbutus
+    probability: 1
+  - name: Madrona
+    probability: 1
+  - name: Snake
+    probability: 1
+  - name: Reed
+    probability: 1
+  - name: Grassy
+    probability: 1
+  - name: Rose
+    probability: 1
+  - name: Beaver
+    probability: 1
+  - name: Otter
+    probability: 1
+  - name: Trout
+    probability: 1
+  - name: Salmon
+    probability: 1
+  - name: Moose
+    probability: 1
+  - name: Cactus
+    probability: 1
+  - name: Alder
+    probability: 1
+  - name: Mosquito
+    probability: 1
+  - name: Grizzly
+    probability: 1
+  - name: Willow
+    probability: 1
+- names:
+  - name: ' Lake'
+    probability: 1
+  - name: ' Ridge'
+    probability: 1
+  - name: ' River'
+    probability: 1
+  - name: ' Crossing'
+    probability: 1
+  - name: ' Mountain'
+    probability: 1
+  - name: ' Creek'
+    probability: 1
+  - name: ' Junction'
+    probability: 1
+  - name: ' Pass'
+    probability: 1
+  - name: ' Gardens'
+    probability: 1
+  - name: ' Estates'
+    probability: 1
+  - name: ' Hill'
+    probability: 1
+  - name: ' Heights'
+    probability: 1
+  - name: ' Woods'
+    probability: 1
+  - name: ' Bay'
+    probability: 1
+  - name: ' Valley'
+    probability: 1
+  - name: ' Vale'
+    probability: 1
+  - name: ' Wood'
+    probability: 1
+  - name: ' Park'
+    probability: 1
+  - name: ' Town'
+    probability: 1
+  - name: ' Grove'
+    probability: 1
+  - name: ' Narrows'
+    probability: 1
+  - name: ' Plains'
+    probability: 1
+  - name: ' Flats'
+    probability: 1
+  - name: ' Sidings'
+    probability: 1
+  - name: ' Hills'
+    probability: 1
+  - name: ' Meadows'
+    probability: 1
+  - name: ' Meadow'
+    probability: 1
+  - name: ' Cove'
+    probability: 1
+  - name: ' Mount'
+    probability: 1
+  - name: ' Summit'
+    probability: 1
+  - name: ' Peak'
+    probability: 1
+  - name: ' Inlet'
+    probability: 1
+name: Generic Suburban Names
 source: null
 subsets: []
