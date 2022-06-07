@@ -120,6 +120,10 @@ mainset:
     probability: 1
   - name: Strawberry
     probability: 1
+  - name: Wolverine
+    probability: 1
+  - name: Woodchuck
+    probability: 1
 - names:
   - name: ' Lake'
     probability: 1
@@ -192,6 +196,8 @@ mainset:
   - name: ' Butte'
     probability: 1
   - name: ' Island'
+    probability: 1
+  - name: ' Landing'
     probability: 1
 name: Generic Suburban Names
 source: null
