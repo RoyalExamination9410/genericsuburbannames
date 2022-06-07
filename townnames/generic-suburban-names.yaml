@@ -100,6 +100,18 @@ mainset:
     probability: 1
   - name: Squirrel
     probability: 1
+  - name: Holly
+    probability: 1
+  - name: Boulder
+    probability: 1
+  - name: Cranberry
+    probability: 1
+  - name: Rocky
+    probability: 1
+  - name: Muskox
+    probability: 1
+  - name: Panther
+    probability: 1
 - names:
   - name: ' Lake'
     probability: 1
