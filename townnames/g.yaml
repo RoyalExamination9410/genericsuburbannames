@@ -1,0 +1,9 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Eagle
+    probability: 1
+name: G
+source: null
+subsets: []
