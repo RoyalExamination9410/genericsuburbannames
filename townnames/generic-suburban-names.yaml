@@ -20,8 +20,6 @@ mainset:
     probability: 1
   - name: Coast
     probability: 1
-  - name: Crow
-    probability: 1
   - name: Whale
     probability: 1
   - name: Coyote
@@ -83,6 +81,24 @@ mainset:
   - name: Orca
     probability: 1
   - name: Forest
+    probability: 1
+  - name: Pinetree
+    probability: 1
+  - name: Ptarmigan
+    probability: 1
+  - name: Owl
+    probability: 1
+  - name: Blue Jay
+    probability: 1
+  - name: Hummingbird
+    probability: 1
+  - name: Woodpecker
+    probability: 1
+  - name: Crow
+    probability: 1
+  - name: Chipmunk
+    probability: 1
+  - name: Squirrel
     probability: 1
 - names:
   - name: ' Lake'
