@@ -112,6 +112,14 @@ mainset:
     probability: 1
   - name: Panther
     probability: 1
+  - name: Cherry
+    probability: 1
+  - name: Heather
+    probability: 1
+  - name: Blueberry
+    probability: 1
+  - name: Strawberry
+    probability: 1
 - names:
   - name: ' Lake'
     probability: 1
@@ -182,6 +190,8 @@ mainset:
   - name: ' Bluffs'
     probability: 1
   - name: ' Butte'
+    probability: 1
+  - name: ' Island'
     probability: 1
 name: Generic Suburban Names
 source: null
